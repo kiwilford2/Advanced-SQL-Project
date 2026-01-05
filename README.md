@@ -110,7 +110,7 @@ New patients have a 90-day waiting period before certain benefits become active.
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="506" alt="Image" src="https://github.com/user-attachments/assets/b140befe-1b97-476d-8c29-6014f2cb1764" />
+<img width="653" height="105" alt="Image" src="https://github.com/user-attachments/assets/4bfe7cd8-6fec-4bda-8b56-fc83fe11589b" />
 <br />
 <br />
 
