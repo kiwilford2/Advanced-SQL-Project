@@ -179,7 +179,11 @@ Thanks, but I actually need the number of orders by warehouse and shipping statu
 ###
 <p align="center">
 Subqueries and Unions: <br/>
-<img width="284" alt="Image" src="https://github.com/user-attachments/assets/aabd21f7-6be3-4b93-ac0f-cafd223691f1" />
+<img width="981" height="478" alt="Image" src="https://github.com/user-attachments/assets/8f7da49b-5c0a-4107-aa50-745ea5dd4b9e" />
+
+<img width="953" height="515" alt="Image" src="https://github.com/user-attachments/assets/c58f7bba-cc87-4295-a5b9-bde78fb46def" />
+
+<img width="958" height="585" alt="Image" src="https://github.com/user-attachments/assets/71d23681-f614-4b9f-ab39-278d97c71961" />
 <br />
 <br />
 
