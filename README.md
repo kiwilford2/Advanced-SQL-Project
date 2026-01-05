@@ -98,7 +98,7 @@ For all EDI claim submissions that were submitted with an E primary diagnosis co
 ###
 <p align="center">
 Advanced Joins: <br/>
-<img width="323" alt="Image" src="https://github.com/user-attachments/assets/2a50b9a7-701e-45be-9177-677f94b576f5" />
+<img width="1145" height="451" alt="Image" src="https://github.com/user-attachments/assets/2fbabb92-c0e7-4f1c-82da-2294398d5e39" />
 <br />
 <br />
 
