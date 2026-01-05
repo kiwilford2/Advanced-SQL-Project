@@ -132,7 +132,9 @@ Identify all applicants who completed online registration and determine the core
 ###
 <p align="center">
 UNIONS: <br/>
-<img width="341" alt="Image" src="https://github.com/user-attachments/assets/315e1489-1329-4377-ab27-8bd350cdea03" />
+<img width="948" height="640" alt="Image" src="https://github.com/user-attachments/assets/b85083bb-c6a7-4cfc-83ef-5773b41d8752" />
+
+<img width="1327" height="629" alt="Image" src="https://github.com/user-attachments/assets/82c99f7f-7015-436f-b9a7-f7a219f54204" />
 <br />
 <br />
 
