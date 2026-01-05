@@ -36,7 +36,7 @@ Because many patients live in suburban or directional areas (for example, “Nor
 ###
 <p align="center">
 Extracting Multiple Conditions Comparison: <br/>
-<img width="229" alt="Image" src="https://github.com/user-attachments/assets/8629967a-0a3b-47ae-bef9-822fced5d6ab" />
+<img width="556" height="159" alt="Image" src="https://github.com/user-attachments/assets/f9d25948-ca50-49de-9b3e-5d0cc838cc5f" />
 <br />
 <br />
 
