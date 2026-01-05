@@ -162,7 +162,11 @@ Identify all customers in our market who registered in person at a physical bran
 ###
 <p align="center">
 Subqueries, Calculated Fields, and Unions: <br/>
-<img width="389" alt="Image" src="https://github.com/user-attachments/assets/700f0d97-b5eb-4bcf-a114-448151e5acfe" />
+<img width="1007" height="645" alt="Image" src="https://github.com/user-attachments/assets/16c8edf3-db04-4a22-b782-4de92220c9b0" />
+
+<img width="1016" height="637" alt="Image" src="https://github.com/user-attachments/assets/daa7d32d-7ea6-40ab-9f0b-741d507123db" />
+
+<img width="1398" height="155" alt="Image" src="https://github.com/user-attachments/assets/cd5018aa-901d-4be3-91a6-d2fbd9948894" />
 <br />
 <br />
 
