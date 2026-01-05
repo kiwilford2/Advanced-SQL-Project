@@ -121,7 +121,7 @@ For all Endocrinology providers whose NPIs start with 7 or Dermatology providers
 ###
 <p align="center">
 Advanced Joins: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/77479544-73f5-4b08-849c-de567d3c2af5" />
+<img width="886" height="580" alt="Image" src="https://github.com/user-attachments/assets/48c062ea-e2fc-4a49-8518-dbf563d8e8b5" />
 <br />
 <br />
 
