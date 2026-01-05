@@ -86,7 +86,7 @@ An analyst is evaluating UnitedHealthcare (UHC) payment patterns to forecast rev
 ###
 <p align="center">
 Filtering Data, Date Functions, and Calculated Fields: <br/>
-<img width="373" alt="Image" src="https://github.com/user-attachments/assets/b2f6160d-e7bc-4889-880f-3779d8766898" />
+<img width="872" height="251" alt="Image" src="https://github.com/user-attachments/assets/b1013ae9-388f-4ede-af31-537af0074ee2" />
 <br />
 <br />
 
