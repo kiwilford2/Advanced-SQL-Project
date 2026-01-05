@@ -20,7 +20,7 @@ The report will be used to estimate how many patients may be impacted by these u
 ###
 <p align="center">
 Extracting Multiple Conditions Comparison: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+<img width="850" height="185" alt="Image" src="https://github.com/user-attachments/assets/13bb69c4-3dce-4c1d-a5d7-8c07743ace7b" />
 <br />
 <br />
 
