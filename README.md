@@ -285,7 +285,15 @@ Virginia (VA)
 ###
 <p align="center">
 Case Statements, Subqueries, Unions, Joins and Calculated Fields: <br/>
-<img width="470" alt="Image" src="https://github.com/user-attachments/assets/734a08ff-89d5-41a3-91d6-05e15a5ee1e9" />
+<img width="1149" height="654" alt="Image" src="https://github.com/user-attachments/assets/8453cf83-465f-40be-b01e-b6648ab3c8a9" />
+
+<img width="842" height="646" alt="Image" src="https://github.com/user-attachments/assets/cd297a6f-3a8c-433b-8000-cccf28631819" />
+
+<img width="1012" height="649" alt="Image" src="https://github.com/user-attachments/assets/563fc9bb-501d-4fba-b9fa-379ca5ffd1b9" />
+
+<img width="902" height="485" alt="Image" src="https://github.com/user-attachments/assets/48403202-418c-4581-a1a2-9d45577605ba" />
+
+<img width="1048" height="587" alt="Image" src="https://github.com/user-attachments/assets/79f4babb-0e87-4a4b-bd01-a25e139477cc" />
 <br />
 <br />
 
