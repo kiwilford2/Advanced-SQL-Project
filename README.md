@@ -51,7 +51,7 @@ The dataset will be reviewed by both the Billing Audit and Contracting teams to 
 ###
 <p align="center">
 Extracting Multiple Conditions Comparison: <br/>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/f6b2a7ab-d522-4327-b306-0510a648f79c" />
+<img width="711" height="191" alt="Image" src="https://github.com/user-attachments/assets/b0b58701-56a2-4ed4-a2ef-abb5223216bb" />
 <br />
 <br />
 
