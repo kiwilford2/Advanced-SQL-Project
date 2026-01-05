@@ -213,7 +213,7 @@ Once you have this, please provide them with the number of customers at each dis
 ###
 <p align="center">
 Case statements, Dates, and Calculated Fields: <br/>
-<img width="362" alt="Image" src="https://github.com/user-attachments/assets/81f6c01e-8fa6-44e4-83d5-b4d721dd7d12" />
+<img width="545" height="549" alt="Image" src="https://github.com/user-attachments/assets/2ca7dbe6-dd41-4b44-ac9f-d40681c516c2" />
 <br />
 <br />
 
