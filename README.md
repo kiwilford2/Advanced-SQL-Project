@@ -63,7 +63,7 @@ The Enrollment Manager is preparing annual compliance reports for the state heal
 ###
 <p align="center">
 Filtering Data and Date Functions: <br/>
-<img width="273" alt="Image" src="https://github.com/user-attachments/assets/2846b338-e025-475f-8ade-ac4fdb9c8a8a" />
+<img width="605" height="229" alt="Image" src="https://github.com/user-attachments/assets/94b37004-27f9-4488-8248-713904a0cc2c" />
 <br />
 <br />
 
