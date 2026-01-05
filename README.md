@@ -196,7 +196,7 @@ The Billing Department needs to categorize insurance types to determine reimburs
 ###
 <p align="center">
 Case Statements: <br/>
-<img width="365" alt="Image" src="https://github.com/user-attachments/assets/e31d592e-831f-4720-82af-aa9e80111545" />
+<img width="1381" height="160" alt="Image" src="https://github.com/user-attachments/assets/7a2459f1-515f-47f3-ad69-eb76a22041e8" />
 <br />
 <br />
 
