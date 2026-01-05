@@ -75,7 +75,7 @@ Auditors are now requesting all claims to be discarded 36 months after the claim
 ###
 <p align="center">
 Extracting, Sorting, Limiting, Filtering Data, and Date Functions: <br/>
-<img width="290" alt="Image" src="https://github.com/user-attachments/assets/17bda2e1-97cf-4c85-87bb-dac203609e0c" />
+<img width="805" height="177" alt="Image" src="https://github.com/user-attachments/assets/f7f5d4b6-7476-4ddd-bb55-13ae00fdeea3" />
 <br />
 <br />
 
