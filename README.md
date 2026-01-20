@@ -1,5 +1,5 @@
 <h1>Demonstrating Complex SQL Techniques</h1>
-<img width="410" alt="SQL Project 1" src="https://github.com/jciwilliams/SQL_Techniques/assets/152811710/0cd14067-3a89-44f3-84d1-e1396f436c7d">
+<img width="410" alt="SQL Project 1" src="https://github.com/user-attachments/assets/4c6ae473-55bc-413f-9ab9-d7f04ff115cf">
 
 ### SQL projects demonstrate complex skills like: 
  - <b>Retrieving Data using Conditional Comparison Operators for Filtering</b>
